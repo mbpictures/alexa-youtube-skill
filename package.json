@@ -1,0 +1,17 @@
+{
+  "name": "youtube",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "alexa-sdk": "*",
+    "request": "*",
+    "youtube-search": "*",
+    "axios": "*",
+    "alexa-verifier": "*"
+  }
+}
